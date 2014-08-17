@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Maggiore Construction Inc. | Darien CT
+tagline:          Quality remodeling and Additions for Over 30 Years
+url:              http://maggioreconstruction.com
+paginate:         1
+baseurl:          /
+author:
+  name:           Anhony Maggiore
+  url:            https://maggioreconstruction.com
+  email:          info@maggioreconstruction.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/poole/poole
